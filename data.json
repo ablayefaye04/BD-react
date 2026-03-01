@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Diop",
+      "email": "alice.diop@email.com",
+      "age": 22,
+      "filiere": "Informatique",
+      "moyenne": 15.5
+    },
+    {
+      "id": 2,
+      "name": "Mamadou Ndiaye",
+      "email": "mamadou.ndiaye@email.com",
+      "age": 24,
+      "filiere": "Mathématiques",
+      "moyenne": 13.2
+    },
+    {
+      "id": 3,
+      "name": "Fatou Sow",
+      "email": "fatou.sow@email.com",
+      "age": 21,
+      "filiere": "Informatique",
+      "moyenne": 17.8
+    },
+    {
+      "id": 4,
+      "name": "Ousmane Ba",
+      "email": "ousmane.ba@email.com",
+      "age": 23,
+      "filiere": "Physique",
+      "moyenne": 11.4
+    }
+  ]
+}
